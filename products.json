@@ -1,0 +1,76 @@
+[
+    {
+        "id": 1,
+        "product_name": "Girls top",
+        "category": "Fashion",
+        "category_id": 1,
+        "Price": 2000,
+        "Size": "Small",
+        "Color": "Maroon",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 2,
+        "product_name": "Girls top",
+        "category": "Fashion",
+        "category_id": 1,
+        "Price": 1500,
+        "Size": "Medium",
+        "Color": "Blue",
+        "Brand": "Westside"
+    },
+    {
+        "id": 3,
+        "product_name": "Iron",
+        "category": "Electronics",
+        "category_id": 2,
+        "Price": 3000,
+        "Color": "Blue",
+        "company": "Havells"
+    },
+    {
+        "id": 4,
+        "product_name": "Iron",
+        "category": "Electronics",
+        "category_id": 2,
+        "Price": 4000,
+        "Color": "Black",
+        "company": "Bajaj"
+    },
+    {
+        "id": 4,
+        "product_name": "Teddy",
+        "category": "Toys & Baby",
+        "category_id": 2,
+        "Price": 2000,
+        "Color": "yellow",
+        "company": "puma"
+    },
+    {
+        "id": 4,
+        "product_name": "Teddy",
+        "category": "Toys & Baby",
+        "category_id": 2,
+        "Price": 2500,
+        "Color": "pink",
+        "company": "Addidas"
+    },
+    {
+        "id": 4,
+        "product_name": "Bat",
+        "category": "sports",
+        "category_id": 2,
+        "Price": 2400,
+        "Color": "White",
+        "company": ""
+    },
+    {
+        "id": 4,
+        "product_name": "Ball",
+        "category": "sports",
+        "category_id": 2,
+        "Price": 500,
+        "Color": "Red",
+        "company": ""
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "category": "Fashion"
+    },
+    {
+        "id":2,
+        "category":"Electronics"
+    },
+    {
+        "id":2,
+        "category":"Toys & Baby"
+    },
+    {
+        "id":2,
+        "category":"Sports"
+    }
+]
